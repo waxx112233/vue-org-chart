@@ -79,3 +79,6 @@ dist
 
 # IDE
 .idea
+
+#Electron-builder output
+/dist_electron
