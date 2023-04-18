@@ -27,6 +27,7 @@
     "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "vue-async-computed": "^3.5.2",
+    "vue-template-compiler": "^2.7.14",
     "xlsx": "^0.17.0"
   },
   "devDependencies": {
